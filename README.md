@@ -37,7 +37,7 @@ This project is a responsive product listing table built using React Table v8, N
    ```
 3. **Install the dependencies**:
    ```bash
-   npm install
+   yarn install
    ```
 
 ## Running the Application
@@ -45,7 +45,7 @@ This project is a responsive product listing table built using React Table v8, N
 1. **Development Mode**:
 
    ```bash
-   npm run dev
+   yarn run dev
    ```
 
    This will start the Next.js development server. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -53,14 +53,14 @@ This project is a responsive product listing table built using React Table v8, N
 2. **Build the Application**:
 
    ```bash
-   npm run build
+   yarn run build
    ```
 
    This command creates an optimized production build of the application.
 
 3. **Start the Production Server**:
    ```bash
-   npm start
+   yarn start
    ```
    This will start the Next.js production server.
 
@@ -69,7 +69,7 @@ This project is a responsive product listing table built using React Table v8, N
 1. **Run Tests**:
 
    ```bash
-   npm run test
+   yarn run test
    ```
 
    This command will run the Jest test suite.
@@ -77,14 +77,14 @@ This project is a responsive product listing table built using React Table v8, N
 2. **Watch Tests**:
 
    ```bash
-   npm run test:watch
+   yarn run test:watch
    ```
 
    This will run the tests in watch mode.
 
 3. **Generate Coverage Report**:
    ```bash
-   npm run test:coverage
+   yarn run test:coverage
    ```
    This command will generate a test coverage report.
 
@@ -93,7 +93,7 @@ This project is a responsive product listing table built using React Table v8, N
 1. **Run ESLint**:
 
    ```bash
-   npm run lint
+   yarn run lint
    ```
 
    This command will run ESLint to check for code quality issues.
